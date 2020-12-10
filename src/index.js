@@ -1,5 +1,5 @@
 import x from './x.js'
-import png from '../images/1.png'
+import png from '../images/2.png'
 
 const div = document.querySelector('#app')
 
